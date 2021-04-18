@@ -7,6 +7,8 @@ https://usa3.lhdserver.es:8197/stream
 https://radios-ec.cdn.nedmedia.io/radios/ec-galaxia.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonoonda.com/wp-content/uploads/2020/10/cropped-LOGOSONOONDA-1-132x67.png" group-title="RADIO", RADIO SONOONDA PORTOVIEJO 99.7 FM 
 http://5.135.183.124:8040/stream?1579368909961
+#EXTINF:-1 tvg-logo="http://www.radiomarejada.com/wp-content/uploads/2015/04/logomar.jpg" group-title="RADIO", RADIO MAREJADA 100.9 FM EL PODER MUSICAL
+http://streaming.hdserver.biz:9330/stream
 #EXTINF:-1 tvg-logo="https://web.canelaradio.com/wp-content/uploads/2020/11/Sin-titulo-3ASDASASD_Mesa-de-trabajo-1.png" group-title="RADIO", RADIO CANELA PICHINCHA 106.5 FM
 https://us9.maindigitalstream.com/ssl/7005
 #EXTINF:-1 tvg-logo="https://web.canelaradio.com/wp-content/uploads/2020/11/Sin-titulo-3ASDASASD_Mesa-de-trabajo-1.png" group-title="RADIO", RADIO CANELA GUAYAS 90.5  FM 
