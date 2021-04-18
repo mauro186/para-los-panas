@@ -11,6 +11,8 @@ http://5.135.183.124:8040/stream?1579368909961
 http://streaming.hdserver.biz:9330/stream
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s269945/images/logoq.jpg" group-title="RADIO", RADIO GAVIOTA LASER 1005.3 FM LA INQUIETA
 https://acastream.net:7006/;stream
+#EXTINF:-1 tvg-logo="http://radioscandalo.com/wp-content/uploads/2018/10/logo-radio-scandalo.png" group-title="RADIO", RADIO scandalo 1003.7 FM SCANDALO
+http://str.manaideas.com:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://web.canelaradio.com/wp-content/uploads/2020/11/Sin-titulo-3ASDASASD_Mesa-de-trabajo-1.png" group-title="RADIO", RADIO CANELA PICHINCHA 106.5 FM
 https://us9.maindigitalstream.com/ssl/7005
 #EXTINF:-1 tvg-logo="https://web.canelaradio.com/wp-content/uploads/2020/11/Sin-titulo-3ASDASASD_Mesa-de-trabajo-1.png" group-title="RADIO", RADIO CANELA GUAYAS 90.5  FM 
