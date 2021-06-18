@@ -7,7 +7,7 @@ https://usa3.lhdserver.es:8197/stream
 https://radios-ec.cdn.nedmedia.io/radios/ec-galaxia.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonoonda.com/wp-content/uploads/2020/10/cropped-LOGOSONOONDA-1-132x67.png" group-title="RADIO", RADIO SONOONDA PORTOVIEJO 99.7 FM 
 http://5.135.183.124:8040/stream?1579368909961
-#EXTINF:-1 tvg-logo="http://www.radiomarejada.com/wp-content/uploads/2015/04/logomar.jpg" group-title="RADIO", RADIO MAREJADA 100.9 FM EL PODER MUSICAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mauro186/imagenes/main/marejada.JPG" group-title="RADIO", RADIO MAREJADA 100.9 FM EL PODER MUSICAL
 http://streaming.hdserver.biz:9330/stream
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s269945/images/logoq.jpg" group-title="RADIO", RADIO GAVIOTA LASER 1005.3 FM LA INQUIETA
 https://acastream.net:7006/;stream
@@ -15,7 +15,7 @@ https://acastream.net:7006/;stream
 http://str.manaideas.com:8000/stream/1/
 #EXTINF:-1 tvg-logo="http://farraradio.com/wp-content/uploads/2020/10/cropped-logo-e1604192983373.png" group-title="RADIO", RADIO FARRA 95.7 FM SE PRENDE EN EL AIRE 
 http://162.216.114.29:8000/radio1
-#EXTINF:-1 tvg-logo="http://radioscandalo.com/wp-content/uploads/2018/10/logo-radio-scandalo.png" group-title="RADIO", RADIO CHACARAS SAN JUAN DE MANTA
+#EXTINF:-1 tvg-logo="https://radiolaschacrasmanabi.yolasite.com/resources/Bq_TAYwIgAIt189.jpg" group-title="RADIO", RADIO CHACRAS MANABI
 https://stream.zeno.fm/8x0zsv5amzzuv
 #EXTINF:-1 tvg-logo="https://web.canelaradio.com/wp-content/uploads/2020/11/Sin-titulo-3ASDASASD_Mesa-de-trabajo-1.png" group-title="RADIO", RADIO CANELA PICHINCHA 106.5 FM
 https://us9.maindigitalstream.com/ssl/7005
