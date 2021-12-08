@@ -16,7 +16,7 @@ http://str.manaideas.com:8000/stream/1/
 #EXTINF:-1 tvg-logo="http://farraradio.com/wp-content/uploads/2020/10/cropped-logo-e1604192983373.png" group-title="RADIO", RADIO FARRA 95.7 FM SE PRENDE EN EL AIRE 
 http://162.216.114.29:8000/radio1
 #EXTINF:-1 tvg-logo="https://losbajos.radiostream321.com/users.img/2648240/38/6/3651758619612.thumb.png" group-title="RADIO", RADIO MONTECRISTI LOS BAJOS
-https://stream.zeno.fm/a027vm757p8uv
+https://node-01.zeno.fm/5wnc74gdfc9uv.aac?rj-ttl=5&rj-tok=AAABfZuhFO0Afiaz3I3OXSGOtw
 #EXTINF:-1 tvg-logo="https://radiolaschacrasmanabi.yolasite.com/resources/Bq_TAYwIgAIt189.jpg" group-title="RADIO", RADIO CHACRAS MANABI
 https://stream.zeno.fm/8x0zsv5amzzuv
 #EXTINF:-1 tvg-logo="https://web.canelaradio.com/wp-content/uploads/2020/11/Sin-titulo-3ASDASASD_Mesa-de-trabajo-1.png" group-title="RADIO", RADIO CANELA PICHINCHA 106.5 FM
