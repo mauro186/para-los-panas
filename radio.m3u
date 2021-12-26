@@ -3,7 +3,7 @@
 http://190.214.19.126:8000/radio
 #EXTINF:-1 tvg-logo="http://modelofm.com/wp-content/uploads/2015/04/modelo-farandula-300x175.png" group-title="RADIO", RADIO MODELO 97.7
 https://usa3.lhdserver.es:8197/stream
-#EXTINF:-1 tvg-logo="http://www.galaxia.com.ec/app/themes/base-radios/img/branding/galaxia/logo.png" group-title="RADIO", RADIO GALAXIA LA MEJOR
+#EXTINF:-1 tvg-logo="https://dah75mnh595dg.cloudfront.net/wp-content/uploads/sites/13/2021/11/15134048/logo-galaxia.png" group-title="RADIO", RADIO GALAXIA LA MEJOR
 https://radios-ec.cdn.nedmedia.io/radios/ec-galaxia.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonoonda.com/wp-content/uploads/2020/10/cropped-LOGOSONOONDA-1-132x67.png" group-title="RADIO", RADIO SONOONDA PORTOVIEJO 99.7 FM 
 http://5.135.183.124:8040/stream?1579368909961
@@ -13,7 +13,7 @@ http://streaming.hdserver.biz:9330/stream
 https://acastream.org:20066/;stream/1
 #EXTINF:-1 tvg-logo="http://radioscandalo.com/wp-content/uploads/2018/10/logo-radio-scandalo.png" group-title="RADIO", RADIO SCANDALO 1003.7 FM SCANDALO
 http://str.manaideas.com:8000/stream/1/
-#EXTINF:-1 tvg-logo="http://farraradio.com/wp-content/uploads/2020/10/cropped-logo-e1604192983373.png" group-title="RADIO", RADIO FARRA 95.7 FM SE PRENDE EN EL AIRE 
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-ec/farra.png" group-title="RADIO", RADIO FARRA 95.7 FM SE PRENDE EN EL AIRE 
 http://162.216.114.29:8000/radio1
 #EXTINF:-1 tvg-logo="https://losbajos.radiostream321.com/users.img/2648240/38/6/3651758619612.thumb.png" group-title="RADIO", RADIO MONTECRISTI LOS BAJOS
 https://node-01.zeno.fm/5wnc74gdfc9uv.aac?rj-ttl=5&rj-tok=AAABfZuhFO0Afiaz3I3OXSGOtw
