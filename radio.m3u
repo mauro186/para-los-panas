@@ -13,8 +13,8 @@ http://streaming.hdserver.biz:9330/stream
 https://ares.disfrutaenlared.com/8008/stream
 #EXTINF:-1 tvg-logo="http://radioscandalo.com/wp-content/uploads/2018/10/logo-radio-scandalo.png" group-title="RADIO", RADIO SCANDALO 1003.7 FM SCANDALO
 http://str.manaideas.com:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-ec/farra.png" group-title="RADIO", RADIO FARRA 95.7 FM SE PRENDE EN EL AIRE 
-http://us4freenew.listen2myradio.com:3869/stream
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-ec/farra.png" group-title="RADIO", RADIO FARRA 95.7 FM SE PRENDE EN EL AIRE
+https://usa14.fastcast4u.com/proxy/radiofarrafm?mp=/1
 #EXTINF:-1 tvg-logo="https://losbajos.radiostream321.com/users.img/2648240/38/6/3651758619612.thumb.png" group-title="RADIO", RADIO MONTECRISTI LOS BAJOS
 https://node-01.zeno.fm/5wnc74gdfc9uv.aac?rj-ttl=5&rj-tok=AAABfZuhFO0Afiaz3I3OXSGOtw
 #EXTINF:-1 tvg-logo="https://radiolaschacrasmanabi.yolasite.com/resources/Bq_TAYwIgAIt189.jpg" group-title="RADIO", RADIO CHACRAS MANABI
