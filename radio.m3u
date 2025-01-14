@@ -5,7 +5,7 @@ http://190.214.19.126:8000/radio
 https://usa3.lhdserver.es:8197/stream
 #EXTINF:-1 tvg-logo="https://dah75mnh595dg.cloudfront.net/wp-content/uploads/sites/13/2021/11/15134048/logo-galaxia.png" group-title="RADIO", RADIO GALAXIA LA MEJOR
 https://alba-ec-galaxia-galaxia.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sonoonda.com/wp-content/uploads/2020/10/cropped-LOGOSONOONDA-1-132x67.png" group-title="RADIO", RADIO SONOONDA PORTOVIEJO 99.7 FM 
+#EXTINF:-1 tvg-logo="https://sonoonda.com/wp-content/uploads/2022/01/cropped-cropped-cropped-cropped-215853981_1495774530757901_6841612693650402946_n.png" group-title="RADIO", RADIO SONOONDA PORTOVIEJO 99.7 FM 
 http://5.135.183.124:8040/stream?1579368909961
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mauro186/imagenes/main/marejada.JPG" group-title="RADIO", RADIO MAREJADA 100.9 FM EL PODER MUSICAL
 http://streaming.hdserver.biz:9330/stream
