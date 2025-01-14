@@ -1,7 +1,7 @@
 
-#EXTINF:-1 tvg-logo="http://radiocontacto1080am.com/wp-content/themes/radiocontacto/img/radio-contacto_logo.png" group-title="RADIO", RADIO CONTACTO MANTA 1080 AM 
+#EXTINF:-1 tvg-logo="https://radiocontacto1080am.net/wp-content/themes/radiocontacto/img/radio-contacto_logo.png" group-title="RADIO", RADIO CONTACTO MANTA 1080 AM 
 http://190.214.19.126:8000/radio
-#EXTINF:-1 tvg-logo="http://modelofm.com/wp-content/uploads/2015/04/modelo-farandula-300x175.png" group-title="RADIO", RADIO MODELO 97.7
+#EXTINF:-1 tvg-logo="https://modelofm.com/wp-content/uploads/2024/01/logo-modelo.png" group-title="RADIO", RADIO MODELO 97.7
 https://usa3.lhdserver.es:8197/stream
 #EXTINF:-1 tvg-logo="https://dah75mnh595dg.cloudfront.net/wp-content/uploads/sites/13/2021/11/15134048/logo-galaxia.png" group-title="RADIO", RADIO GALAXIA LA MEJOR
 https://alba-ec-galaxia-galaxia.stream.mediatiquestream.com/index.m3u8
