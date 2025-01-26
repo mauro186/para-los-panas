@@ -15,6 +15,8 @@ https://live.turadiotv.com/8074/stream
 http://str.manaideas.com:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-ec/farra.png" group-title="RADIO", RADIO FARRA 95.7 FM SE PRENDE EN EL AIRE
 https://usa14.fastcast4u.com/proxy/radiofarrafm?mp=/1
+#EXTINF:-1 tvg-logo="https://cdn.radio-addict.com/media/stream/3f5f948f-6259-11e9-a622-52543be04c81_DF2265ABCF19FF7D058BBC46F9172060_8TvccyN9_400x400.jpg" group-title="RADIO", RADIO RNC 103.3 FM LA MUNDIALISTA
+https://streamingecuador.net:7008/radiornc
 #EXTINF:-1 tvg-logo="https://losbajos.radiostream321.com/users.img/2648240/38/6/3651758619612.thumb.png" group-title="RADIO", RADIO MONTECRISTI LOS BAJOS
 https://node-01.zeno.fm/5wnc74gdfc9uv.aac?rj-ttl=5&rj-tok=AAABfZuhFO0Afiaz3I3OXSGOtw
 #EXTINF:-1 tvg-logo="https://radiolaschacrasmanabi.yolasite.com/resources/Bq_TAYwIgAIt189.jpg" group-title="RADIO", RADIO CHACRAS MANABI
