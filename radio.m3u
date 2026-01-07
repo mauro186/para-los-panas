@@ -12,7 +12,7 @@ http://streaming.hdserver.biz:9330/stream
 #EXTINF:-1 tvg-logo="https://lainquietafm.com/wp-content/uploads/2022/10/cropped-loginquieta.png" group-title="RADIO", RADIO GAVIOTA LASER 1005.3 FM LA INQUIETA
 https://live.turadiotv.com/8074/stream
 #EXTINF:-1 tvg-logo="http://radioscandalo.com/wp-content/uploads/2018/10/logo-radio-scandalo.png" group-title="RADIO", RADIO SCANDALO 1003.7 FM SCANDALO
-http://str.manaideas.com:8000/stream/1/
+https://radio.tramahosting.com/listen/radio_scandalo/radio.mp3
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-ec/farra.png" group-title="RADIO", RADIO FARRA 95.7 FM SE PRENDE EN EL AIRE
 https://usa14.fastcast4u.com/proxy/radiofarrafm?mp=/1
 #EXTINF:-1 tvg-logo="https://cdn.radio-addict.com/media/stream/3f5f948f-6259-11e9-a622-52543be04c81_DF2265ABCF19FF7D058BBC46F9172060_8TvccyN9_400x400.jpg" group-title="RADIO", RADIO RNC 103.3 FM LA MUNDIALISTA
